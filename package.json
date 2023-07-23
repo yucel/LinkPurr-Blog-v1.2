@@ -3,11 +3,11 @@
   "version": "0.1.3",
   "type": "module",
   "author": {
-    "name": "Elian Van Cutsem",
-    "email": "hello@elian.codes",
-    "url": "https://www.elian.codes/"
+    "name": "linkpurr",
+    "email": "info@linkpurr.com",
+    "url": "https://www.blog.linkpurr.com/"
   },
-  "homepage": "https://brutal.elian.codes",
+  "homepage": "https://blog.linkpurr.com",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
