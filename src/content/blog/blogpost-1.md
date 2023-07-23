@@ -1,7 +1,7 @@
 ---
 title: Blogpost 1.1
-pubDate: 11/09/2022 14:25
-author: "Elian Van Cutsem"
+pubDate: 11/09/2022
+author: "LinkPurr"
 tags:
   - JavaScript
   - Astro
