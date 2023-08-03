@@ -5,7 +5,7 @@ export async function get(context) {
   const blog = await getCollection('blog');
   return rss({
     title: 'LinkPurr Blog',
-    description: 'Articles and knowledge base for LinkPurr',
+    description: 'Streamline Your Online Strategy: Insights & Tips by LinkPurr',
     stylesheet: false,
     site: context.site,
     items: blog.map((post) => ({
