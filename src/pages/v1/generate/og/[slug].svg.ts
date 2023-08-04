@@ -36,7 +36,7 @@ export const get: APIRoute = async ({ params, props }) => {
         </div>
         <div style="display: flex; justify-content: space-between; align-items: baseline">
           <p style="font-size: 32px">${link}</p>
-          <img src="https://www.elian.codes/_astro/elian_ZJca6K.jpg" width="200px" height="200px" style="border: 3px solid black; border-radius: 0.5rem;" />
+          <img src="https://linkpurr.com/assets/images/logo.jpg" width="200px" height="200px" style="border: 3px solid black; border-radius: 0.5rem;" />
         </div>
       </div>
     </div>
