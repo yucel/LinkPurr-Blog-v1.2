@@ -24,8 +24,8 @@ export function getStaticPaths() {
 export const get: APIRoute = async ({ params, props }) => {
   const bgColor =
     Config.colors[Math.floor(Math.random() * Config.colors.length)];
-  const title = props.title ?? 'Brutal, a theme for Astro.';
-  const link = params.slug ?? 'https://brutal.elian.codes';
+  const title = props.title ?? 'Bblog.LinkPurr, blog and knowledge base for LinkPurr.';
+  const link = params.slug ?? 'https://blog.linkpurr.com';
 
   const html = toReactElement(`
   <div style="background-color: ${bgColor}; display: flex; flex-direction: column; height: 100%; padding: 3rem; width: 100%">
